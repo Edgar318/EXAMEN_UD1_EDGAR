@@ -6,10 +6,10 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-       ejercicio1 ejercicio1 = new ejercicio1();
-        ejercicio1.eejercicio1();
+        //ejercicio1 ejercicio1 = new ejercicio1();
+        //ejercicio1.eejercicio1();
 
-        //ejercicio2 ejercicio2 = new ejercicio2();
-        //ejercicio2.eejercicio2();
+        ejercicio2 ejercicio2 = new ejercicio2();
+        ejercicio2.eejercicio2();
     }
 }
